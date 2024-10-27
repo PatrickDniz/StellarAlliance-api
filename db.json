@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "nomeDaNave": "Nebula Azul",
+    "tamanho": "colossal",
+    "cor": "azul",
+    "localDeQueda": "Oceano Atlântico",
+    "periculosidadeLocalDeQueda": "moderado",
+    "armamentos": [
+      "lasers de alta potência",
+      "mísseis teleguiados"
+    ],
+    "tipoDeCombustivel": [],
+    "numeroDeTripulantes": "12",
+    "estadoDosTripulantes": "4 sobreviventes em estado crítico",
+    "grauDeAvaria": "muito destruída",
+    "potencialTecnologico": "alto",
+    "grauDePericulosidade": "alto",
+    "PontosDeUtilidade": 270,
+    "percentualDeUtilidade": 54,
+    "classificacao": "Médio"
+  },
+  {
+    "id": 2,
+    "nomeDaNave": "Bio Anil",
+    "tamanho": "media",
+    "cor": "anil",
+    "localDeQueda": "Montanhas Rochosas",
+    "periculosidadeLocalDeQueda": "moderado",
+    "armamentos": [
+      "nenhum"
+    ],
+    "tipoDeCombustivel": [
+      "bioenergia"
+    ],
+    "numeroDeTripulantes": "3",
+    "estadoDosTripulantes": "3 sobreviventes em bom estado",
+    "grauDeAvaria": "praticamente intacta",
+    "potencialTecnologico": "alto",
+    "grauDePericulosidade": "baixo",
+    "PontosDeUtilidade": 275,
+    "percentualDeUtilidade": 55,
+    "classificacao": "Médio"
+  },
+  {
+    "id": 3,
+    "nomeDaNave": "Soldier Green",
+    "tamanho": "pequena",
+    "cor": "verde",
+    "localDeQueda": "Floresta Amazônica",
+    "periculosidadeLocalDeQueda": "seguro",
+    "armamentos": [
+      "canhões de plasma"
+    ],
+    "tipoDeCombustivel": [
+      "cristais energéticos"
+    ],
+    "numeroDeTripulantes": "5",
+    "estadoDosTripulantes": "2 sobreviventes em estado estável",
+    "grauDeAvaria": "sem avarias",
+    "potencialTecnologico": "baixo",
+    "grauDePericulosidade": "baixo",
+    "PontosDeUtilidade": 280,
+    "percentualDeUtilidade": 56,
+    "classificacao": "Médio"
+  },
+  {
+    "id": 4,
+    "nomeDaNave": "Gigante Amarelo",
+    "tamanho": "colossal",
+    "cor": "amarela",
+    "localDeQueda": "Oceano Pacífico",
+    "periculosidadeLocalDeQueda": "moderado",
+    "armamentos": [
+      "mísseis teleguiados",
+      "defesa anti-matéria"
+    ],
+    "tipoDeCombustivel": [
+      "matéria escura"
+    ],
+    "numeroDeTripulantes": "50",
+    "estadoDosTripulantes": "10 sobreviventes em estado crítico",
+    "grauDeAvaria": "perda total",
+    "potencialTecnologico": "altíssimo",
+    "grauDePericulosidade": "extremo",
+    "PontosDeUtilidade": 355,
+    "percentualDeUtilidade": 71,
+    "classificacao": "Bom"
+  },
+  {
+    "id": 5,
+    "nomeDaNave": "Gigante Vermelho",
+    "tamanho": "colossal",
+    "cor": "vermelha",
+    "localDeQueda": "Lua Obscura",
+    "periculosidadeLocalDeQueda": "moderado",
+    "armamentos": [
+      "mísseis teleguiados",
+      "defesa anti-matéria",
+      "lasers de alta potência",
+      "canhões de plasma"
+    ],
+    "tipoDeCombustivel": [
+      "matéria escura",
+      "energia escura",
+      "bioenergia",
+      "cristais energéticos",
+      "antimatéria"
+    ],
+    "numeroDeTripulantes": "50",
+    "estadoDosTripulantes": "10 sobreviventes em estado crítico",
+    "grauDeAvaria": "perda total",
+    "potencialTecnologico": "altíssimo",
+    "grauDePericulosidade": "extremo",
+    "PontosDeUtilidade": 545,
+    "percentualDeUtilidade": 100,
+    "classificacao": "Perfeito"
+  },
+  {
+    "id": 6,
+    "nomeDaNave": "Little night",
+    "tamanho": "pequena",
+    "cor": "violeta",
+    "localDeQueda": "Montanha Lunar",
+    "periculosidadeLocalDeQueda": "extremamente perigoso",
+    "armamentos": [
+      "nenhum"
+    ],
+    "tipoDeCombustivel": [
+      "bioenergia"
+    ],
+    "numeroDeTripulantes": "2",
+    "estadoDosTripulantes": "2 sobreviventes em estado estável",
+    "grauDeAvaria": "parcialmente destruída",
+    "potencialTecnologico": "médio",
+    "grauDePericulosidade": "médio",
+    "PontosDeUtilidade": 150,
+    "percentualDeUtilidade": 30,
+    "classificacao": "Baixo"
+  }
+]
