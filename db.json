@@ -1,26 +1,5 @@
 [
   {
-    "id": 1,
-    "nomeDaNave": "Nebula Azul",
-    "tamanho": "colossal",
-    "cor": "azul",
-    "localDeQueda": "Oceano Atlântico",
-    "periculosidadeLocalDeQueda": "moderado",
-    "armamentos": [
-      "lasers de alta potência",
-      "mísseis teleguiados"
-    ],
-    "tipoDeCombustivel": [],
-    "numeroDeTripulantes": "12",
-    "estadoDosTripulantes": "4 sobreviventes em estado crítico",
-    "grauDeAvaria": "muito destruída",
-    "potencialTecnologico": "alto",
-    "grauDePericulosidade": "alto",
-    "PontosDeUtilidade": 270,
-    "percentualDeUtilidade": 54,
-    "classificacao": "Médio"
-  },
-  {
     "id": 2,
     "nomeDaNave": "Bio Anil",
     "tamanho": "media",
